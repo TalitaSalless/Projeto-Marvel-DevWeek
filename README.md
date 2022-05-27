@@ -1,4 +1,4 @@
-<h1 align="center">Projeto desenvolvido na SemanaDevWeek. Canal @DevEmDobro.</h1>
+<h1 align="center">Projeto desenvolvido na SemanaDevWeek. @DevEmDobro.</h1>
  
 <br>
 ✔️ Técnicas e tecnologias utilizadas
