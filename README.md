@@ -1,5 +1,6 @@
-<h1 align="center">Site Google Glass.</h1>
-<h2 align="center"> Projeto para aprendizado de criação de sites.</h2> 
+<h1 align="center">Projeto desenvolvido na SemanaDevWeek. Canal @DevEmDobro.</h1>
+ 
+<br>
 ✔️ Técnicas e tecnologias utilizadas
 
 - ``HTML5``
